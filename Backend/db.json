@@ -41,6 +41,26 @@
         ]
       },
       {
+        "id": 2,
+        "age": 61,
+        "eyeColor": "brown",
+        "name": "Burky Hurls",
+        "friends": [
+          {
+            "id": 0,
+            "name": "Marissa Rivas"
+          },
+          {
+            "id": 1,
+            "name": "Zelma Colon"
+          },
+          {
+            "id": 2,
+            "name": "Cynthia Klein"
+          }
+        ]
+      },
+      {
         "id": 3,
         "age": 61,
         "eyeColor": "brown",
